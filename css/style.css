@@ -1047,6 +1047,10 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
 }
 
+.contact-info li a:hover {
+  text-decoration: underline;
+}
+
 .form-control {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
