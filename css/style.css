@@ -475,10 +475,15 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-wireframe {
   border: none !important;
 }
-#fh5co-wireframe blockquote {
+#fh5co-wireframe li {
   border: none;
   padding: 0;
   font-weight: bold;
+}
+#fh5co-wireframe p {
+  border: none;
+  padding: 0;
+  font-weight: normal;
 }
 
 .user-frame {
