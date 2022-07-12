@@ -11,7 +11,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.7;
@@ -64,7 +64,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -85,18 +85,18 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-nav {
-  background: #fff;
+  background: #F6EDEE;
 }
 .fh5co-nav .top-menu {
   padding: 28px 0;
 }
 .fh5co-nav #fh5co-logo {
-  font-size: 32px;
+  font-size: 25px;
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  font-weight: 700;
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-weight: 300;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .fh5co-nav #fh5co-logo a span {
   color: #DD356E;
