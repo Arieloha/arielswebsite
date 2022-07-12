@@ -1001,7 +1001,7 @@ h1, h2, h3, h4, h5, h6, figure {
   text-decoration: underline;
 }
 #fh5co-footer .fh5co-widget {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-footer .fh5co-widget {
@@ -1009,11 +1009,20 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #fh5co-footer .fh5co-widget h4 {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   font-size: 20px;
 }
+
 #fh5co-footer .copyright .block {
   display: block;
+}
+
+#fh5co-footer img {
+  float: right;
+}
+
+.fh5co-footer-links li {
+  line-height: 3.0;
 }
 
 .contact-info {
