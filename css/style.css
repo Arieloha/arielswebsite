@@ -933,6 +933,11 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-top: 100px;
 }
 
+#fh5co-portfolio h4 {
+  font-size: 20px;
+  font-weight: 150;
+}
+
 .fh5co-team {
   position: relative;
   background: #fff;
