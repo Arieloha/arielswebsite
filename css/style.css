@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-nav {
-  background: #F6EDEE;
+  background: #DAC0C8;
 }
 .fh5co-nav .top-menu {
   padding: 28px 0;
@@ -917,6 +917,10 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-left: 50px;
 }
 
+#fh5co-portfolio li:last-child {
+  margin-bottom: 50px;
+}
+
 #fh5co-portfolio ul {
   line-height: 2.5;
 }
@@ -927,16 +931,40 @@ h1, h2, h3, h4, h5, h6, figure {
   font-style: italic;
 }
 
+#fh5co-portfolio h2 {
+  margin-top: 10px;
+  margin-bottom: none;
+}
+
 #fh5co-portfolio h3 {
   font-size: 30px;
   font-weight: 200;
-  margin-top: 100px;
+  margin-top: 50px;
+  margin-bottom: none;
 }
 
 #fh5co-portfolio h4 {
   font-size: 20px;
   font-weight: 150;
   line-height: 1.5;
+}
+
+#fh5co-portfolio {
+  background-color: #EADADF;
+}
+
+#certificates {
+  background-color: #F9F5F6;
+  margin-top: 70px;
+}
+
+#history {
+  background-color: #F9F5F6;
+}
+
+#skills {
+  background-color: #F9F5F6;
+  margin-top: 70px;
 }
 
 .fh5co-team {
