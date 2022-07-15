@@ -912,6 +912,26 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-right: 5px;
 }
 
+#fh5co-portfolio #history li {
+  list-style: none;
+  margin-left: 50px;
+}
+
+#fh5co-portfolio #history ul {
+  line-height: 2.5;
+}
+
+#fh5co-portfolio #history ul p {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+#fh5co-portfolio #history h3 {
+  font-size: 30px;
+  font-weight: 200;
+}
+
 .fh5co-team {
   position: relative;
   background: #fff;
