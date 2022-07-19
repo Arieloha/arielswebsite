@@ -989,6 +989,12 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-top: none;
 }
 
+#fh5co-about i {
+  color:  grey;
+  font-size: 1.3em;
+  margin-left: 5px;
+}
+
 #fh5co-portfolio {
   background-color: #EADADF;
 }
