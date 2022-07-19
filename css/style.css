@@ -941,7 +941,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-about li:last-child {
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 
 #fh5co-about ul {
@@ -982,6 +982,11 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: 200;
   margin-top: 100px;
   margin-bottom: 100px;
+}
+
+#fh5co-about img {
+  padding: 40px;
+  margin-top: none;
 }
 
 #fh5co-portfolio {
