@@ -935,6 +935,25 @@ h1, h2, h3, h4, h5, h6, figure {
   font-style: italic;
 }
 
+#fh5co-about li {
+  list-style: none;
+  margin-left: 50px;
+}
+
+#fh5co-about li:last-child {
+  margin-bottom: 80px;
+}
+
+#fh5co-about ul {
+  line-height: 2.5;
+}
+
+#fh5co-about ul p {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
 #fh5co-portfolio h2 {
   margin-top: 10px;
   margin-bottom: none;
@@ -953,6 +972,18 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 1.5;
 }
 
+#fh5co-about h2 {
+  margin-top: 10px;
+  margin-bottom: none;
+}
+
+#fh5co-about h3 {
+  font-size: 30px;
+  font-weight: 200;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 #fh5co-portfolio {
   background-color: #EADADF;
 }
@@ -969,6 +1000,14 @@ h1, h2, h3, h4, h5, h6, figure {
 #skills {
   background-color: #F9F5F6;
   margin-top: 70px;
+}
+
+#fh5co-about {
+  background-color: #EADADF;
+}
+
+#projects {
+  background-color: #F9F5F6;
 }
 
 .fh5co-team {
