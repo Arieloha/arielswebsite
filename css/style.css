@@ -1015,6 +1015,12 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: none;
 }
 
+#fh5co-blog h4 {
+  font-size: 20px;
+  font-weight: 150;
+  line-height: 1.5;
+}
+
 #fh5co-about img {
   padding: 40px;
   margin-top: none;
@@ -1072,6 +1078,11 @@ h1, h2, h3, h4, h5, h6, figure {
 #zheng {
   background-color: #F9F5F6;
   margin-top: 70px;
+}
+
+#grade5 {
+  width: 400;
+  height: 300;
 }
 
 .fh5co-team {
